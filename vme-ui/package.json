@@ -1,0 +1,14 @@
+{
+  "name": "vme-ui",
+  "version": "1.0.1",
+  "description": "对form表单进行封装，成可配置文件，支持自定义扩展。开箱即用。",
+  "main": "packages/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "前端ui框架"
+  ],
+  "author": "小破船借箭",
+  "license": "ISC"
+}
